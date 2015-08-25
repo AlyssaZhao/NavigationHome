@@ -28,7 +28,7 @@ body a:hover{
 /*-- Header Part Starts Here --*/
 .header {
 	padding: 1.4em 0 1.5em 3em;
-	/*background: rgba(135, 132, 116, 0.76);*/
+	background: rgba(135, 132, 116, 0.3);
 /*	background: #190076;
 	opacity: 0.5;*/
 	margin: 0 auto;
@@ -204,7 +204,7 @@ ul.navig li:nth-of-type(3) {
 	position: relative;
 }
 .banner-1{
-	background:url(../images/banner-1.jpg) no-repeat;
+	background:url(../images/banner1.jpg) no-repeat;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -213,7 +213,7 @@ ul.navig li:nth-of-type(3) {
 	min-height: 780px;
 }
 .banner-2{
-	background:url(../images/banner-2.jpg) no-repeat;
+	background:url(../images/banner2.jpg) no-repeat;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -469,7 +469,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 	margin: 0 2em;
 }
 .banner-bottom ul li a span{
-	background:url(../images/social-sprit.png) no-repeat;
+	background:url(../images/social-split2.png) no-repeat;
 	width:67px;
 	height:66px;
 	display:block;
@@ -498,7 +498,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 	background-position:-134px -66px;
 }
 .banner-bottom {
-	background: rgba(60, 50, 73, 0.55);
+	background: rgba(60, 50, 73, 0.3);
 	width: 100%;
 	padding: 3em 0px;
 	text-align: center;
@@ -1009,7 +1009,7 @@ div#portfoliolist {
 	margin:0 1.2em;
 }
 .footer-text ul li a span {
-	background: url(../images/social-sprit.png) no-repeat;
+	background: url(../images/social-split2.png) no-repeat;
 	width: 50px;
 	background-size: 299%;
 	height: 49px;

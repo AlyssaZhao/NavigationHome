@@ -221,6 +221,24 @@ ul.navig li:nth-of-type(3) {
 	-ms-background-size:cover;
 	min-height: 780px;
 }
+.banner-3{
+	background:url(../images/banner3.jpg) no-repeat;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	min-height: 780px;
+}
+.banner-4{
+	background:url(../images/banner4.jpg) no-repeat;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	min-height: 780px;
+}
 /*------------------ Slider Part starts Here----------*/
 .slider{
 	background:url(../images/slide-banner.jpg)no-repeat;
